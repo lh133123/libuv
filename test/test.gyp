@@ -48,6 +48,7 @@
         'test-idle.c',
         'test-ip6-addr.c',
         'test-ipc.c',
+        'test-ipc-heavy-traffic-deadlock-bug.c',
         'test-ipc-send-recv.c',
         'test-list.h',
         'test-loop-handles.c',
